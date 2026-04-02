@@ -35,7 +35,7 @@
 ### 🐍 Programming
 <img src="https://skillicons.dev/icons?i=python,html,css" />
 
-Python • HTML • CSS .SQL
+Python • HTML • CSS 
 
 </td>
 
